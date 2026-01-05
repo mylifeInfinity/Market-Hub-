@@ -1,0 +1,7 @@
+{
+  "name": "Copy of OnlineMarket365",
+  "description": "An all-in-one AI-powered creative suite featuring smart copywriting, image generation, and intelligent chat assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
